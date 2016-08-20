@@ -1,5 +1,5 @@
 server {
-	listen 80;
+	listen 8989;
 
 	root /usr/share/nginx/html/rutorrent;
 	index index.html index.php;
